@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sucnh.github.io/WFF/sitemap.WFF.gz
